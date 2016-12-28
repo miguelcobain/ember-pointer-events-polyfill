@@ -16,7 +16,7 @@ The goal is to be able to do AST transforms to do this automatically for you, in
 the same manner as ember-hammertime does for fast click.
 
 PEP doesn't yet allow us to write `<div onpointerdown={{action "someAction"}}`.
-There is an open issue about it if you want to contribute.
+There is an open issue about it if you want to contribute: https://github.com/jquery/PEP/issues/214
 
 ## Installation
 
